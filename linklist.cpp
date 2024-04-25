@@ -128,3 +128,7 @@ void seacrhData() {
         cout << "Data tidak ditemukan" << endl;
     }
 }
+
+int main() {
+    
+}
