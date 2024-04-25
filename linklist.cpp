@@ -91,5 +91,10 @@ bool listEmpty() {
 }
 
 void traverse() {
-    
+    if (listEmpty()) {
+        cout << "List kosong" << endl;
+        system("pause");
+        system("cls");
+        return;
+    }
 }
